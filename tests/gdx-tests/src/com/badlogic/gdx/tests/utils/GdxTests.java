@@ -73,6 +73,7 @@ import com.badlogic.gdx.tests.g3d.ShadowMappingTest;
 import com.badlogic.gdx.tests.g3d.ShadowMappingTextureTest;
 import com.badlogic.gdx.tests.g3d.SkeletonTest;
 import com.badlogic.gdx.tests.g3d.TangentialAccelerationTest;
+import com.badlogic.gdx.tests.g3d.TerrainLodTest;
 import com.badlogic.gdx.tests.g3d.TextureArrayTest;
 import com.badlogic.gdx.tests.g3d.TextureRegion3DTest;
 import com.badlogic.gdx.tests.g3d.utils.DefaultTextureBinderTest;
@@ -299,6 +300,7 @@ public class GdxTests {
 		TableLayoutTest.class,
 		TableTest.class,
 		TangentialAccelerationTest.class,
+		TerrainLodTest.class,
 		TextAreaTest.class,
 		TextAreaTest2.class,		
 		TextAreaTest3.class,
